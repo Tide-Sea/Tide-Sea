@@ -4,6 +4,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+ I am very happy to have an opportunity to introduce myself.
+ 
+ Goal-driven and accomplished full stack developer with over 7 years proven track record of delivering exceptional results in Frontend(react.js, vue.js) and Backend(node.js, python).
+
+
+ I have done several complex projects and provide continuous maintenance support.
+
+ My goal has always been to provide reliable and efficients to my clients and so far I have been quite successful.
+
 ## Core Skills
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
